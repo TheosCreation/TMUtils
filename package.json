@@ -1,0 +1,17 @@
+{
+  "name": "com.theocreates.tmutils",
+  "displayName": "TMUtils",
+  "version": "1.0.0",
+  "unity": "2017.1",
+  "description": "ABC",
+  "keywords": [
+    "utils"
+  ],
+  "category": "Utils",
+  "type": "commonjs",
+  "author": {
+    "name": "TMUtils",
+    "email": "pandazflipperpanda706@gmail.com",
+    "url": "https://github.com/TheosCreation"
+  }
+}
