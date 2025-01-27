@@ -1,5 +1,7 @@
 # TMUtils
 
+Install from package manager in unity with https://github.com/TheosCreation/TMUtils.git
+
 ## TMDebug class example
 Here is a example of a melee attack that uses the Draw Debug Box function to display the damage hit box
 
